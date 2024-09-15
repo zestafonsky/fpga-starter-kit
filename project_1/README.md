@@ -75,7 +75,6 @@ project_1/
 │   └── sources_1/new/
 │       ├── led_control.v         # Verilog source for LED control
 │       └── top_module.v          # Top-level Verilog module
-├── LICENSE                       # License for the project
 ├── README.md                     # Project documentation
 └── project_1.xpr                 # Vivado 2024.1 project file
 ```
