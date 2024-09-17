@@ -46,7 +46,7 @@ second_project/
 ## How to Use
 
 ### 1. Open the Project
-- Open `second_project.xpr` in Vivado 2024.1 to view and manage the project.
+- Open `project_2.xpr` in Vivado 2024.1 to view and manage the project.
 
 ### 2. Run Synthesis and Implementation
 - Use Vivado to synthesize and implement the design.
