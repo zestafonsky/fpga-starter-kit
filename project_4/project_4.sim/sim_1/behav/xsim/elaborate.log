@@ -1,0 +1,41 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_top_behav xil_defaultlib.tb_top xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/top.v" Line 1. Module top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/rgb_control.v" Line 1. Module rgb_control_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/rgb_control.v" Line 1. Module rgb_control(COLOR_CHANGE=0) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/top.v" Line 1. Module top doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/rgb_control.v" Line 1. Module rgb_control_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/rgb_control.v" Line 1. Module rgb_control(COLOR_CHANGE=0) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/debounce.v" Line 1. Module debounce doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/GeorgeKaladzeAmperox/fpga/project_4/project_4.srcs/sources_1/new/edge_detector.v" Line 1. Module edge_detector doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.debounce
+Compiling module xil_defaultlib.edge_detector
+Compiling module xil_defaultlib.rgb_control_default
+Compiling module xil_defaultlib.rgb_control(COLOR_CHANGE=0)
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.tb_top
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_top_behav

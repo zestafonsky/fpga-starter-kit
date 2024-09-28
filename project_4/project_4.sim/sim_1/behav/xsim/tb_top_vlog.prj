@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_4.srcs/sources_1/new/debounce.v" \
+"../../../../project_4.srcs/sources_1/new/edge_detector.v" \
+"../../../../project_4.srcs/sources_1/new/rgb_control.v" \
+"../../../../project_4.srcs/sources_1/new/top.v" \
+"../../../../project_4.srcs/sim_1/new/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
